@@ -16,11 +16,11 @@ const experience = [
     dateRange: "05/16 - Present",
     role: "Engineer 4",
     projects: [
-      "Architected and lead development of numerous products to facilitate lead capture.",
+      "Architected and led development of numerous products to facilitate lead capture.",
       "Mentored junior developers and shared knowledge about machine learning/deep learning throughout 2U tech.",
       "Analyzed data from numerous sources to determine lead loss (esp focused on ad blocking traffic), and recommend mitigation strategies.",
       "Implemented initial grading system replacement for Moodle while on the Online Campus team.",
-      "Lead a month long hackathon team with the goal of reducing the cost and improving the quality of student residency/internship placement"
+      "Led a month long hackathon team with the goal of reducing the cost and improving the quality of student residency/internship placement"
     ],
     skills: [
       "Javascript",
@@ -76,7 +76,7 @@ const experience = [
     dateRange: "09/14 - 09/15",
     role: "Consultant",
     projects: [
-      "Lead team to redesign and rearchitect an existing flash based homework system into a single page React application",
+      "Led team to redesign and rearchitect an existing flash based homework system into a single page React application",
       "Created plugin system that allowed for easy future expantion into different subjects by adding new modules",
       "Wrote mock server code to allow disconnected development of modules",
       "Created a test harness to test components in isolation",
