@@ -2,10 +2,10 @@ import React from 'react';
 
 export default function (props) {
   const links = props.linkList.map((link, idx) => {
-    const circle = idx < props.linkList.length - 1 ? ' &#9679; ' : '';
+    const dot = idx < props.linkList.length - 1 ? ' . ' : '';
     return (
       <>
-        <a href={link[1]}>{link[0]}</a><span dangerouslySetInnerHTML={{ __html: circle }} />
+        <a href={link[1]}>{link[0]}</a>{dot}
       </>
     )
   })

@@ -5,6 +5,7 @@ import ContactInfo from './contactInfo';
 import WorkInfo from './workInfo';
 import EducationInfo from './educationInfo';
 
+
 function App() {
   return (
     <div className="App">
