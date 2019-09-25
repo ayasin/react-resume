@@ -13,7 +13,7 @@ function WorkItem(props) {
       <div className="row">
         <div className="col-xs-12 col-md-8">
           <h4>{props.company}</h4>
-          {props.role}
+          <strong>{props.role}</strong>
           <br />
         </div>
         <div className="col-xs-12 col-md-4 text-right">

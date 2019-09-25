@@ -41,7 +41,7 @@ const experience = [
     projects: [
       "Worked with various clients to solve hard technical problems in their businesses.  See sampling of specific clients below."
     ],
-    skills: []
+    skills: ['details below']
   },
   {
     company: "Kind Health (DataTensor)",
