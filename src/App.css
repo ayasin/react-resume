@@ -1,7 +1,7 @@
 .App {
   background-color: #fcfcfc;
   min-height: 100vh;
-  font-family: 'Roboto Condensed'
+  font-family: 'Archivo', 'Roboto Condensed', sans-serif
 }
 
 .App-logo {

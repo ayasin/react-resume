@@ -4,7 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.css';
-import 'typeface-roboto-condensed'
+import 'typeface-archivo';
+import 'typeface-roboto-condensed';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
