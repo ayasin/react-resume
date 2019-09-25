@@ -1,6 +1,6 @@
 # Resume template rendered with ReactJS
 
-This repo contains a react app that I use to display my resume.  It was created with `create-react-app` (https://create-react-app.dev).
+This repo contains a react app that I use to display my resume.  It was created with `create-react-app` (https://create-react-app.dev).  You can view the output of this [(my resume) here](https://ayasin.github.io/resume).
 
 ### To use for your own resume in 3 easy steps
 
