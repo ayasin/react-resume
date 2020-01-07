@@ -17,7 +17,8 @@ const experience = [
     role: "Engineer 4",
     projects: [
       "Architected and led development of numerous products to facilitate lead capture.",
-      "Mentored junior developers and shared knowledge about machine learning/deep learning throughout 2U tech.",
+      "Mentored junior developers in React, NodeJS, and Rust.",
+      "Shared knowledge about machine learning/deep learning throughout 2U tech.",
       "Analyzed data from numerous sources to determine lead loss (esp focused on ad blocking traffic), and recommend mitigation strategies.",
       "Implemented initial grading system replacement for Moodle while on the Online Campus team.",
       "Led a month long hackathon team with the goal of reducing the cost and improving the quality of student residency/internship placement"
@@ -48,7 +49,7 @@ const experience = [
     dateRange: "11/16 - Present",
     role: "Consultant",
     projects: [
-      "Architected and developed inital version of online healthcare marketplace.",
+      "Architected and developed inital version of online healthcare marketplace in React.",
       "Mentored junior developers.",
       "Assisted in introducing Agile processes to make team more effective."
     ],
@@ -59,9 +60,9 @@ const experience = [
     dateRange: "3/15-12/15",
     role: "Consultant",
     projects: [
-      "Architected and implemented full stack recruitment platform.",
+      "Architected and implemented full stack recruitment platform primarily in React and NodeJS.",
       "Interfaced with stakeholders to ensure fit.",
-      "Developed tools to import data from other platforms."
+      "Developed tools to import and analyze data from other platforms."
     ],
     skills: [
       "Javascript",
